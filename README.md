@@ -1,3 +1,5 @@
+## Hackathon de 48h réalisé en équipe
+
 ## Concept
 
 This template is meant to serve as a foundation for every P2/P3 following the React-Express-MySQL stack, as learned in Wild Code School.
